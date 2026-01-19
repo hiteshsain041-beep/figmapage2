@@ -248,9 +248,8 @@ header form {
     text-align: center;
 }
 
-/* ===========================
-    📱 RESPONSIVE MEDIA QUERIES 
-=========================== */
+
+     /* RESPONSIVE MEDIA QUERIES  */
 
 @media (max-width: 992px) {
     .navbar-nav {
